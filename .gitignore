@@ -1,0 +1,10 @@
+.env
+.vscode/
+__pycache__/
+*.pyc
+agno.db
+agent.py
+finance.py
+memory.py
+finance.py
+team.py
