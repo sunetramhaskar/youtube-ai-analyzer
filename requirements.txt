@@ -2,3 +2,4 @@ agno==3.0.11
 groq
 python-dotenv
 streamlit
+youtube_transcript_api
